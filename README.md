@@ -4,7 +4,7 @@ An edge habitat monitoring prototype for Taiwan’s endangered landlocked salmon
 
 ### Edge AI for Monitoring Taiwan’s Endangered Salmon Habitat
 
-Salmon Refuge Sentinel is a proposed low-power habitat monitoring system
+Salmon Habitat Monitor is a proposed low-power habitat monitoring system
 for Taiwan’s endangered Formosan landlocked salmon
 (*Oncorhynchus masou formosanus*).
 
